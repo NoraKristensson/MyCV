@@ -1,3 +1,22 @@
+body { background-color: #dccca3;
+    color: #824c71;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+
+
 h1 {text-align:center;}
-img {
-    width: 200px;}
+
+.Noraspic {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.borderline {
+    border-bottom-style: double;
+}
+
+footer {text-align: center;}
