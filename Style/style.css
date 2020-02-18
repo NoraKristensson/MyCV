@@ -1,12 +1,18 @@
 body { background-color: #dccca3;
     color: #824c71;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
+    font-size: 16spx;
 
 }
 
 
-h1 {text-align:center;}
+h1 {text-align:center;
+    font-size: 35px;
+}
+
+h2 {font-size: 25px;}
+
+
 
 .Noraspic {
     width: 300px;
@@ -18,5 +24,18 @@ h1 {text-align:center;}
 .borderline {
     border-bottom-style: double;
 }
+.workplace {
+    font-size: 20px;
+    text-decoration: underline;
+}
+.dates {
+    font-size: 16px;
+}
 
-footer {text-align: center;}
+.Education {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+footer {text-align: center;
+        font-size: 12px;}
